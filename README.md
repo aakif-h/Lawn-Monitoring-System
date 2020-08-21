@@ -89,10 +89,8 @@ The above image depicts the completed circuit. The relay is not currently connec
 system, but rest assured, the project works as intended. The below video is a demonstration of how 
 the monitoring system may theoretically function.
 
-<video width="320" height="240" controls>
-  <source src="assets/demo.mp4" type="video/mp4">
-</video>
-
-![](assets/demo.mp4)
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=KBWWp6jjVq4"><img src="https://img.youtube.com/vi/KBWWp6jjVq4/0.jpg" alt="IMAGE ALT TEXT"></a>
+</div>
 
 
