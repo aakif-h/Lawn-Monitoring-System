@@ -93,4 +93,6 @@ the monitoring system may theoretically function.
   <source src="assets/demo.mp4" type="video/mp4">
 </video>
 
+![](assets/demo.mp4)
+
 
