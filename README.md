@@ -87,7 +87,8 @@ The IMS connects to one GPIO pin (_GPIO5_).
 
 The above image depicts the completed circuit. The relay is not currently connected to the sprinkler 
 system, but rest assured, the project works as intended. The below video is a demonstration of how 
-the monitoring system may theoretically function.
+the monitoring system may theoretically function (Note: click on the image below; GitHub can't seem
+to render local videos properly).
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=aic25bEzj8o"><img src="https://img.youtube.com/vi/aic25bEzj8o/0.jpg" alt="IMAGE ALT TEXT"></a>
