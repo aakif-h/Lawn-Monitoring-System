@@ -90,7 +90,7 @@ system, but rest assured, the project works as intended. The below video is a de
 the monitoring system may theoretically function.
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=KBWWp6jjVq4"><img src="https://img.youtube.com/vi/KBWWp6jjVq4/0.jpg" alt="IMAGE ALT TEXT"></a>
+  <a href="https://www.youtube.com/watch?v=aic25bEzj8o"><img src="https://img.youtube.com/vi/aic25bEzj8o/0.jpg" alt="IMAGE ALT TEXT"></a>
 </div>
 
 
