@@ -91,7 +91,7 @@ the monitoring system may theoretically function (Note: click on the image below
 to render local videos properly).
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=aic25bEzj8o"><img src="https://img.youtube.com/vi/aic25bEzj8o/0.jpg" alt="IMAGE ALT TEXT"></a>
+  <a href="https://www.youtube.com/watch?v=aic25bEzj8o"><img src="https://media.giphy.com/media/J21hI90gLs2iZPz6e7/giphy.gif" alt="IMAGE ALT TEXT"></a>
 </div>
 
 
